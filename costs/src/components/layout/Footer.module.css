@@ -1,0 +1,33 @@
+.footer{
+    background-color: #222;
+    color: #fff;
+    padding: 3em;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+ul > li{
+    margin: 0 1em;
+}
+
+ul > li:hover{
+    color: #ffbb33;
+    transition-duration: .4s;
+    cursor: pointer;
+}
+
+ul > li > svg{
+    margin-top: 1em;
+    font-size: 1.5em;
+}
+
+p > span{
+    font-weight: bold;
+    color: #ffbb33;
+}
+

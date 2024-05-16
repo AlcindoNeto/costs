@@ -19,7 +19,7 @@ function App() {
       </Routes>
       </Container>
 
-      <footer>Rodapé</footer>
+      <footer><Footer/></footer>
 
     </Router>
   );
