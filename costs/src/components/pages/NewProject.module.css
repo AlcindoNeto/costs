@@ -1,0 +1,13 @@
+section{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+section > div > h1{
+    margin-bottom: 0.5em;
+}
+
+section > div > p{
+    color: #7b7b7b;
+}
